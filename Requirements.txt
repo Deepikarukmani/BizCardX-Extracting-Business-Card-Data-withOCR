@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+easyocr
+mysql
+PIL import Image
+cv2
+os
+matplotlib.pyplot
+re
