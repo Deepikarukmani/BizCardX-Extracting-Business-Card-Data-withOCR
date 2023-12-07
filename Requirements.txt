@@ -3,7 +3,6 @@ pandas
 numpy
 easyocr
 mysql
-cv2
 os
 matplotlib.pyplot
 re
