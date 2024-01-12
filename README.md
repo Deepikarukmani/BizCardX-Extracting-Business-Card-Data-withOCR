@@ -12,14 +12,14 @@
    - Once EasyOCR is installed, only one import statement is required to import the package into your project.
    - From there, all you need is two lines of code to perform OCR — one to initialize the Reader class and then another to OCR the image via the readtext function.
 
-## Libraries used:
+## Libraries Used:
 
-   - Pandas 
-   - mysql.connector 
-   - Streamlit 
-   - EasyOCR 
+   1. **Pandas** 
+   2. **mysql.connector** 
+   3. **Streamlit** 
+   4. **EasyOCR** 
 
 
-## Project Overview
+## Project Overview:
  
    BizCardX is a user-friendly tool for extracting information from business cards. The tool uses OCR technology to recognize text on business cards and extracts the data into a SQL database after classification using regular expressions. Users can access the extracted information using a GUI built using streamlit.
